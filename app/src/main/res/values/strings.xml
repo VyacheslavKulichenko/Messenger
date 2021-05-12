@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="button_send">отправить</string>
+    <string name="hint_enter_msg">введите сообщение</string>
+    <string name="chooser_title">Как вы хотите отправить сообщение?</string>
+</resources>
